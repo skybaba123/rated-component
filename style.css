@@ -101,7 +101,12 @@ button:hover{
     color: hsl(25, 97%, 53%);
 }
 
+button:focus{
+    background-color: hsl(25, 97%, 53%);
+    color: #fff;
 }
+
+
 .thankYouImg{
     position: relative;
     margin-top: 140px;
