@@ -101,11 +101,12 @@ button:hover{
     color: hsl(25, 97%, 53%);
 }
 
-button:focus{
+button:focus,button:active{
     background-color: hsl(25, 97%, 53%);
     color: #fff;
 }
 
+}
 
 .thankYouImg{
     position: relative;
